@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 
-import 'constants.dart';
 import 'custom_icon.dart';
 
 class CustomAppBar extends StatelessWidget {
